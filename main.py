@@ -114,8 +114,8 @@ class App(QtWidgets.QWidget):
     def __init__(self):
         # super() replace QtWidgets.QWidget.__init__()
         super().__init__()
-        self.setWindowTitle("Find password in Control Expert DFB - Biloute")
-        self.setFixedWidth(450)
+        self.setWindowTitle("Control Expert DFB password - Bernardo59")
+        self.setFixedSize(450, 0)
         self.setup_ui()
         self.set_connections()
         self.default_values()
