@@ -1,7 +1,7 @@
 # Control Expert - DFB Password
 
 ## Description
-This program is used to find the passwords of a DFB on the "EcoStruxure Control Expert" or "Unity" software.
+This program is used to find passwords of Derived Function Block on "EcoStruxure Control Expert" or "Unity" software.
 
 ## How to use
 You need "Python 3.9" to use this program.  
