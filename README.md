@@ -32,7 +32,7 @@ This program is used to find passwords of Derived Function Block on "EcoStruxure
 
 7/ Open ControlExpertDFBPassword on type the password (in my case, the password is "Bernardo"):  
 
-![DFB_Crypted_8](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_10.PNG?raw=true)
+![DFB_Crypted_9](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_10.png?raw=true)
 
 ## How to use  
 
