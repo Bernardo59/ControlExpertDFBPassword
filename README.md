@@ -27,9 +27,11 @@ This program is used to find passwords of Derived Function Block on "EcoStruxure
 ![DFB_Crypted_7](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_8.PNG?raw=true)
 
 6/ Next, found the string starting with "a .." and ending with "b.". The password is between "a .." and "b.":  
+
 ![DFB_Crypted_8](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_9.PNG?raw=true)
 
-7/ Open ControlExpertDFBPassword on type the password (in my case, the password is "Bernardo"):
+7/ Open ControlExpertDFBPassword on type the password (in my case, the password is "Bernardo"):  
+
 ![DFB_Crypted_8](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_10.PNG?raw=true)
 
 ## How to use  
