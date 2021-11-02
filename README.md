@@ -36,9 +36,9 @@ This program is used to find passwords of Derived Function Block on "EcoStruxure
 
 ## How to use  
 
-You need "Python 3.7" to use this program.  
+You need "Python 3.7" to use this program. Use "requirements.txt" to install all package.
 
->py -3.7 main.py (on windows)
+>py -3.7 main.py (on windows)  
 >python3.7 main.py (on linux)
 
 ## Screenshot
