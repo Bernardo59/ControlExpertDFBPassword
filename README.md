@@ -26,7 +26,7 @@ This program is used to find passwords of Derived Function Block on "EcoStruxure
 ![DFB_Crypted_6](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_7.PNG?raw=true)
 ![DFB_Crypted_7](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_8.PNG?raw=true)
 
-6/ Next, found the string starting with "a .." and ending with "b.". The password is between "a .." and "b.":  
+6/ Next, found the string starting with "a .." (61 04 09 in HEXA) and ending with "b." (62 04 in HEXA). The password is between "a .." and "b.":  
 
 ![DFB_Crypted_8](https://github.com/Bernardo59/ControlExpertDFBPassword/blob/master/assets/DFB_9.PNG?raw=true)
 
