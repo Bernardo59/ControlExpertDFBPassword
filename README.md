@@ -1,7 +1,7 @@
 # Control Expert - DFB Password
 
 ## Description
-This program is used to find passwords of Derived Function Block on "EcoStruxure Control Expert" or "Unity" software.
+This program is used to find password of Derived Function Block on "EcoStruxure Control Expert" or "Unity" software.
 
 ## Extract the password  
 1/ First, take a DFB in Control Expert or Unity with "Crypted password":  
