@@ -52,6 +52,7 @@ namespace ControlExpertDFBPassword
             // Explode password to char array
             char[] charPassword = password.ToCharArray();
 
+
             // Iterate
             while (j < 10)
             {
