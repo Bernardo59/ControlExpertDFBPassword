@@ -36,10 +36,7 @@ This program is used to find password of Derived Function Block on "EcoStruxure 
 
 ## How to use  
 
-You need "Python 3.7" to use this program. Use "requirements.txt" to install all package.
-
->py -3.7 main.py (on windows)  
->python3.7 main.py (on linux)
+Use .exe release or compile code with Visual Studio. 
 
 ## Screenshot
 ![DFB Password](https://raw.githubusercontent.com/Bernardo59/ControlExpertDFBPassword_Window/master/assets/EcoStruxureDFBPassword.PNG)
